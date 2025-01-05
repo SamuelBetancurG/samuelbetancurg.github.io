@@ -1,37 +1,18 @@
 <header>
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+# SAM'S blog
 
-# Editing
-
-_Create a site or blog from your GitHub repositories with GitHub Pages._
-
+Readme about my personal blog and portfolio
 </header>
 
-<!--
-  <<< Author notes: Finish >>>
-  Review what we learned, ask for feedback, provide next steps.
--->
 
-## Finish editing
+## First entry
 
-_Congratulations my dear friend, you've completed this course!_
+_I did my first entry in my personal blog!_
 
 <img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
 
 Your blog is now live and has been deployed!
-
-Here's a recap of all the tasks you've accomplished in your repository:
-
-- You enabled GitHub Pages.
-- You selected a theme using the config file.
-- You learned about proper directory format and file naming conventions in Jekyll.
-- You created your first blog post with Jekyll!
 
 
 
