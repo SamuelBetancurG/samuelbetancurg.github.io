@@ -1,2 +1,4 @@
-theme: minima
+theme: jekyll-theme-minimal
+title: Sam's Blog
 author: SamuelB
+description: My personal portfolio and other stuff
